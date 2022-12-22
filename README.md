@@ -8,13 +8,13 @@ Server watches clients and nodeClients joining and changes computer performance 
 
 ## Tech
 
-[x] React
-[x] Redis
-[x] MongoDB
-[x] NodeJS
-[x] Socket.io
-[x] Workers
-[x] Sticky Session
+- React
+- Redis
+- MongoDB
+- NodeJS
+- Socket.io
+- Workers
+- Sticky Session
 
 ## Install
 
